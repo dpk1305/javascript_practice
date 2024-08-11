@@ -1,0 +1,21 @@
+.div{
+    height: 240px;
+    width: 240px;
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+}
+.para{
+    height: 240px;
+    width: 240px;
+    background-color: blue;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.new_class{
+    height: 240px;
+    width: 240px;
+    background-color: aqua;
+    border: 2px solid blue;
+}
